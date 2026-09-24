@@ -4,6 +4,7 @@ This lab involves implementing a multicycle RISC-V processor.
 
 ## Files
 
+- `top.sv`: Required top-level module declaration for the processor
 - `RISCVsingle.sv`: SystemVerilog implementation of a single-cycle RISC-V processor
 - `memfile.dat`: Memory initialization file
 - `riscv_testbench.sv`: Testbench for verifying the RISC-V processor

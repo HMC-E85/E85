@@ -1,0 +1,6 @@
+module lab3_xx(input logic clk,
+               input logic reset,
+               input logic left, right,
+               output logic la, lb, lc, ra, rb, rc);
+
+endmodule
